@@ -1,0 +1,46 @@
+{
+  "Emps": [
+    {
+      "empno": 1,
+      "ename": "John",
+      "job": "Engineer",
+      "sal": 54000,
+      "deptno": 101
+    },
+    {
+      "empno": 2,
+      "ename": "Steve",
+      "job": "Analyst",
+      "sal": 40000,
+      "deptno": 102
+    },
+    {
+      "empno": 3,
+      "ename": "Smith",
+      "job": "Analyst",
+      "sal": 42000,
+      "deptno": 103
+    },
+    {
+      "empno": 10,
+      "ename": "up",
+      "job": "Engineer",
+      "sal": 75000,
+      "deptno": 102
+    },
+    {
+      "empno": "5",
+      "ename": "John",
+      "job": "Engineer",
+      "sal": 54000,
+      "deptno": 101
+    },
+    {
+      "empno": "4",
+      "ename": "joasjdlkamd",
+      "job": "Engineer",
+      "sal": 54000,
+      "deptno": 101
+    }
+  ]
+}
